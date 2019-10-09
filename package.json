@@ -4,11 +4,12 @@
   "description": "Node JS With Passport Authenctication Full Project",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
     "start": "node app.js",
     "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MbuguaCaleb/NodeJS-With-PassPort.git"
   },
   "keywords": [],
   "author": "",
