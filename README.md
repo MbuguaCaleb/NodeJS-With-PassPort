@@ -64,6 +64,15 @@ When using EJS Every other view inherits from it by default
 (b)Comments do not work in ejs.
 (c)Once we login with passport we have access to the user object(all the fields we have in our database)..Same as when making a token with jwt.
 
+(d)When getting data from the form we now have to use the body Parser Middleware which in now part of epress..
+Body parser will enable you to get data from your form with request.body.
+
+(e)Validations can also be done by destructuring or by 3 rd party packages..
+Custom validations is made by initializing an empty array then passing in error messages..
+
+You then make a custom partial...AND REUSE IT
+
+
 
 ```
 
