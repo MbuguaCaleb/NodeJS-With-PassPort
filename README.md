@@ -41,6 +41,8 @@ Any strategy you use with passport has to be accompanied with it as you key in t
 EJS..
 Addresses how i bring layouts into my NodeJS PROJECTS...
 
+Comes in Handy when you want to make a front end but not with react,vue or angular..
+
 Bacause layouts will have to receive data coming from NodeJS.
 
 (Therefore you initialize the Layouts into the Main Applicatiion)
