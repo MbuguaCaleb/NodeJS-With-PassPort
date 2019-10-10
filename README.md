@@ -73,6 +73,14 @@ Custom validations is made by initializing an empty array then passing in error 
 You then make a custom partial...AND REUSE IT
 
 
+(f)You can persist  data by a few tricks in ejs
+
+
+(g)You normally create models in moongoose then you have methods which you can
+call from within the model
+
+
+
 
 ```
 
